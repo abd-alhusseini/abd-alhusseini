@@ -1,16 +1,38 @@
-## Hi there 👋
+## 👋 Hi, I'm Abdulrahman
 
-<!--
-**abd-alhusseini/abd-alhusseini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Bachelor of Computer Science  
+🌐 Cisco Certified Network Associate (CCNA)  
+☁️ AWS Solutions Architect – Associate (In Progress)  
+🚀 DevOps Engineer (Cloud & Automation)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Technical Stack
+- **Linux:** Fundamentals
+- **Networking:** TCP/IP, Subnetting, Routing (CCNA)
+- **Version Control:** Git & GitHub
+- **Containers:** Docker
+- **Cloud:** AWS (EC2, IAM, VPC, Security Groups)
+- **CI/CD:** GitHub Actions (Foundations)
+- **IaC:** Terraform (Foundations)
+- **Scripting:** Python (Basics)
+
+---
+
+### 🛠️ Projects & Labs
+This GitHub profile documents hands-on work in:
+- Linux & Bash automation
+- Networking concepts applied to cloud infrastructure
+- Docker containerization
+- AWS architecture labs aligned with AWS SAA
+- CI/CD pipelines and automation fundamentals
+
+---
+
+### 🎯 Career Goal
+DevOps Engineer focused on:
+- Cloud infrastructure
+- Automation
+- Scalable & reliable systems
+
+📍 Jeddah, Saudi Arabia  

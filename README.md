@@ -8,7 +8,7 @@ I am driven by a desire to understand how network components work together to cr
 
 ---
 
-## My Tech Stack
+### My Tech Stack
 Core Networking:
 - Routing & Switching: OSPF, Static Routing, Inter-VLAN Routing, VLANs, Trunks, RSTP, LACP, VRRP
 - WAN & Security: NAT/PAT, ACLs, GRE Tunnels, Site-to-Site VPN
@@ -27,7 +27,7 @@ Tools & Virtualization:
   
 ---
 
-## Professional Goals
+### Professional Goals
 My primary goal is to grow into a skilled Network Security Engineer. I am focused on building a strong portfolio of projects that demonstrate my ability to design, implement, and defend complex networks.
 In the short term, I am focused on:
 Mastering Firewall Technologies: Deepening my hands-on experience with FortiGate and other next-generation firewalls (NGFW).

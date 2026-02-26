@@ -21,7 +21,7 @@ Network Security:
 - Directory Services: Active Directory
 Tools & Virtualization:
 - Simulation: GNS3, Cisco Packet Tracer
-- Analysis: Wireshark
+- Analysis: Wireshark, Zabbix
 - Virtualization: VirtualBox, VMware
 - Operating Systems: Windows Server, Linux (Ubuntu), Windows
   

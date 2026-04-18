@@ -1,2 +1,2 @@
 ## 👋 Hi, I'm Abdulrahman
-I build and orchestrate enterprise-grade infrastructure. From architecting high-availability clusters to managing block-level storage and complex networking, I focus on creating stable, production-ready environments.
+> I design and support enterprise network and infrastructure environments with a focus on reliability, scalability, and secure operations. My work spans routing, switching, data center infrastructure, virtualization, and network security.
